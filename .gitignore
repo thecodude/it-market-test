@@ -1,5 +1,0 @@
-# ignore log files and databases
-*.log
-*.sqlite
-*.DS_Store
-*.idea
