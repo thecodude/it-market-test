@@ -2,112 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9df93d3-db70-46c5-aed1-0b789506b44f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Cold Calling Discription.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Order.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/about-us.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/contact us1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/contact-us.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/data-entry-discription.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/lead-generation-discription.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/lead-generation-work.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/order1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/ordernew.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/Config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/Model/Checkout.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/Model/TwoCheckoutService.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/assets/js/validation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/images/LoaderIcon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/lib/DataSource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/payment.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/return - Copy.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/return.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/sql/schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutAccount.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutApi.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutCoupon.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutError.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutOption.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutPayment.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutProduct.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutSale.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutUtil.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/TwocheckoutCharge.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/TwocheckoutMessage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/TwocheckoutNotification.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/TwocheckoutReturn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/jquery-creditcardvalidator/jquery.creditCardValidator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment_x" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/previous-work.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/privacy-policy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/seo-discription.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/service.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/skip tracing work.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/skip-tracing-description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/12345.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/Call1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/Dola.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/IT1 124.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/IT1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/IT1.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/Jafor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/Jobaidul.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/Linkedinicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/Md Nafiul Islam.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/QUS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/Screenshot_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/alamgirhassain.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/alamgiritmarket24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/asad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/call.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/calls.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/contact-us-sm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/contact.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/contact1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/contact11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/fbicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/gmail1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/head.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/head2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/home1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-facebook-256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-gmail-480.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-instagram-480.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-pinterest-256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-twitter-240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/logo.ai" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/logo1.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/logo2.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/maps.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/new_order.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/order.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/rabiul Islam.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/rayhanmia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/sell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/skype-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/sms.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/social-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/whyus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/work.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/img/youtube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/skip tracing.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style/style_home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/terms-of-service.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/upload_file/Australian Leads.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/upload_file/skiptrace.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/web research work.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/web-design-description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment" beforeDir="false" afterPath="$PROJECT_DIR$/payment" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payment/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/Config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payment/Model/Checkout.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/Model/Checkout.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payment/Model/TwoCheckoutService.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/Model/TwoCheckoutService.php" afterDir="false" />
@@ -117,41 +12,6 @@
       <change beforePath="$PROJECT_DIR$/payment/payment.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/payment.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payment/return.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/return.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payment/vendor/2checkout-php-master/lib/Twocheckout.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/vendor/2checkout-php-master/lib/Twocheckout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/12.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/1231.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/1234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/12345.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/147.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/321.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/Call1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/QUS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/bg-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/call.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/calls.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/contact.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/contact1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/contact11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/head 1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/head 2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/head 3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/head 4.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/head.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/home1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/maps.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/new_order.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/order.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/sell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/sms.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/whyus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/img/work.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/skip tracing.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/style_home.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -179,47 +39,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data-entry-discription.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="202" column="32" lean-forward="true" selection-start-line="202" selection-start-column="32" selection-end-line="202" selection-end-column="32" />
-              <folding>
-                <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/payment/Config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="45" column="20" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/previous-work.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="135" column="35" lean-forward="true" selection-start-line="132" selection-start-column="27" selection-end-line="135" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -331,16 +151,15 @@
       <updated>1582793673809</updated>
       <workItem from="1582793675133" duration="7161000" />
       <workItem from="1583040654140" duration="4127000" />
-      <workItem from="1583234973737" duration="458000" />
+      <workItem from="1583234973737" duration="1078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11746000" />
+    <option name="totallyTimeSpent" value="12366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -509,24 +328,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/payment/Config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/previous-work.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="135" column="35" lean-forward="true" selection-start-line="132" selection-start-column="27" selection-end-line="135" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data-entry-discription.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
-          <caret line="202" column="32" lean-forward="true" selection-start-line="202" selection-start-column="32" selection-end-line="202" selection-end-column="32" />
+          <caret line="208" column="42" selection-start-line="208" selection-start-column="42" selection-end-line="208" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -539,6 +344,20 @@
             <element signature="n#style#0;n#td#2;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#3;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/previous-work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="135" column="35" lean-forward="true" selection-start-line="132" selection-start-column="27" selection-end-line="135" selection-end-column="35" />
         </state>
       </provider>
     </entry>
