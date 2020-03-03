@@ -2,14 +2,156 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9df93d3-db70-46c5-aed1-0b789506b44f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index/payment/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/index/payment/Config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/Model/Checkout.php" beforeDir="false" afterPath="$PROJECT_DIR$/index/payment/Model/Checkout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/Model/TwoCheckoutService.php" beforeDir="false" afterPath="$PROJECT_DIR$/index/payment/Model/TwoCheckoutService.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/payment/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index/payment/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/lib/DataSource.php" beforeDir="false" afterPath="$PROJECT_DIR$/index/payment/lib/DataSource.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/payment.php" beforeDir="false" afterPath="$PROJECT_DIR$/index/payment/payment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/payment/return.php" beforeDir="false" afterPath="$PROJECT_DIR$/index/payment/return.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Cold Calling Discription.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/about-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/contact us1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/contact-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/data-entry-discription.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/lead-generation-discription.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/lead-generation-work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/order1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/ordernew.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/Config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/Model/Checkout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/Model/TwoCheckoutService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/assets/js/validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/images/LoaderIcon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/lib/DataSource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/payment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/return - Copy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/return.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/sql/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutAccount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutCoupon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutError.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutOption.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutPayment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutSale.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/Api/TwocheckoutUtil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/TwocheckoutCharge.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/TwocheckoutMessage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/TwocheckoutNotification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/2checkout-php-master/lib/Twocheckout/TwocheckoutReturn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/jquery-creditcardvalidator/jquery.creditCardValidator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/payment_x" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/previous-work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/privacy-policy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/seo-discription.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/skip tracing work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/skip-tracing-description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/12345.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/Call1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/Dola.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/IT1 124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/IT1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/IT1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/Jafor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/Jobaidul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/Linkedinicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/Md Nafiul Islam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/QUS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/Screenshot_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/alamgirhassain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/alamgiritmarket24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/asad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/calls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/contact-us-sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/contact1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/contact11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/fbicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/gmail1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/head.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/head2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/home1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-facebook-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-gmail-480.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-instagram-480.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-pinterest-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/icons8-twitter-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/logo.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/logo1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/logo2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/maps.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/new_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/rabiul Islam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/rayhanmia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/sell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/skype-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/sms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/social-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/whyus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/work.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/img/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/skip tracing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style/style_home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/terms-of-service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/upload_file/Australian Leads.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/upload_file/skiptrace.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/web research work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/web-design-description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/Model/Checkout.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/Model/Checkout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/Model/TwoCheckoutService.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/Model/TwoCheckoutService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/payment/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/lib/DataSource.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/lib/DataSource.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/payment.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/payment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/return.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/return.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/vendor/2checkout-php-master/lib/Twocheckout.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment/vendor/2checkout-php-master/lib/Twocheckout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/12.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/1231.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/1234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/12345.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/147.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/321.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/Call1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/QUS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/bg-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/calls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/contact1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/contact11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/head 1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/head 2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/head 3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/head 4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/head.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/home1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/maps.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/new_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/sell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/sms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/whyus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/img/work.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/skip tracing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style_home.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +179,47 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data-entry-discription.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="202" column="32" lean-forward="true" selection-start-line="202" selection-start-column="32" selection-end-line="202" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#2;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#3;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#2;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#3;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/payment/Config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="45" column="20" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/previous-work.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="135" column="35" lean-forward="true" selection-start-line="132" selection-start-column="27" selection-end-line="135" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -52,6 +234,7 @@
       <find>address</find>
       <find>font-family:Atlas Grotesk Web;sans-serif;</find>
       <find>price float-right</find>
+      <find>#site_content</find>
     </findStrings>
     <replaceStrings>
       <replace>Thecodude</replace>
@@ -65,7 +248,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/index/payment" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -75,10 +258,14 @@
         <option value="$PROJECT_DIR$/index/payment/return.php" />
         <option value="$PROJECT_DIR$/index/about-us.html" />
         <option value="$PROJECT_DIR$/index/payment/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/index/style/style_home.css" />
         <option value="$PROJECT_DIR$/index/payment/Config.php" />
         <option value="$PROJECT_DIR$/index/previous-work.html" />
         <option value="$PROJECT_DIR$/index/payment/index.php" />
+        <option value="$PROJECT_DIR$/index/style/style_home.css" />
+        <option value="$PROJECT_DIR$/style/style_home.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/payment/Config.php" />
+        <option value="$PROJECT_DIR$/data-entry-discription.html" />
       </list>
     </option>
   </component>
@@ -104,46 +291,7 @@
             <path>
               <item name="it-market-24" type="b2602c69:ProjectViewProjectNode" />
               <item name="it-market-24" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="it-market-24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="it-market-24" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
               <item name="payment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="it-market-24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="it-market-24" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-              <item name="payment" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="it-market-24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="it-market-24" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-              <item name="payment" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="it-market-24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="it-market-24" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-              <item name="payment" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="it-market-24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="it-market-24" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="it-market-24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="it-market-24" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,8 +301,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Pluginbazar/ewpb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -181,16 +330,19 @@
       <option name="presentableId" value="Default" />
       <updated>1582793673809</updated>
       <workItem from="1582793675133" duration="7161000" />
+      <workItem from="1583040654140" duration="4127000" />
+      <workItem from="1583234973737" duration="458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7161000" />
+    <option name="totallyTimeSpent" value="11746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16897655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -243,13 +395,16 @@
           <line>77</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index/payment/error_log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index/payment/error_log" />
     <entry file="file://$PROJECT_DIR$/index/style/img/head2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -260,27 +415,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/payment/return.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/payment/lib/DataSource.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1564">
-          <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/payment/sql/schema.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index/payment/return.php" />
+    <entry file="file://$PROJECT_DIR$/index/payment/lib/DataSource.php" />
+    <entry file="file://$PROJECT_DIR$/index/payment/sql/schema.sql" />
     <entry file="file://$PROJECT_DIR$/index/about-us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -288,52 +425,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/style/style_home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="220" column="22" selection-start-line="220" selection-start-column="22" selection-end-line="220" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/payment/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="189" column="12" lean-forward="true" selection-start-line="189" selection-start-column="12" selection-end-line="189" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/payment/Config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="41" column="20" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index/payment/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/index/payment/Config.php" />
     <entry file="file://$PROJECT_DIR$/index/previous-work.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="178" column="55" lean-forward="true" selection-start-line="178" selection-start-column="55" selection-end-line="178" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/payment/index.php" />
+    <entry file="file://$PROJECT_DIR$/index/payment/payment.php" />
+    <entry file="file://$PROJECT_DIR$/style/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/payment_x" />
+    <entry file="file://$PROJECT_DIR$/index/style/style_home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/style_home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#li#0;n#ol#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#li#1;n#ol#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#li#1;n#ol#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#li#6;n#ol#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#4;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#p#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#1;n#p#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#4;n#p#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#5;n#p#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/payment/index.php">
+    <entry file="file://$PROJECT_DIR$/payment/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1253">
-          <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
+        <state relative-caret-position="567">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/payment/payment.php">
+    <entry file="file://$PROJECT_DIR$/previous-work.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-640">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="504">
+          <caret line="135" column="35" lean-forward="true" selection-start-line="132" selection-start-column="27" selection-end-line="135" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-entry-discription.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="202" column="32" lean-forward="true" selection-start-line="202" selection-start-column="32" selection-end-line="202" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#tr#7;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#tr#8;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
